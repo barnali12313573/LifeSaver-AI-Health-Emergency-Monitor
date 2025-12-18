@@ -31,3 +31,4 @@ Data Processing: Pandas, NumPy
 Model Management: Joblib (for serialization/loading)
 
 Styling: Custom CSS injection for the neon-black aesthetic
+<img width="1845" height="854" alt="Screenshot 2025-12-18 115342" src="https://github.com/user-attachments/assets/29687f34-ba8e-49b5-9dc8-49ec559fc2dc" />
