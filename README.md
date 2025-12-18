@@ -25,8 +25,7 @@ Unsupervised Detection
 Using K-Means Clustering, the system calculates the Euclidean distance of live data points from a "normal health" centroid. A high distance score indicates a physiological anomaly, even if supervised models haven't been specifically trained on that exact scenario.
 Technical Stack:
 Frontend: Streamlit (Python-based web framework)
-Machine Learning: Scikit-Learn
-
+Machine Learning: Scikit-Learn  
 Data Processing: Pandas, NumPy
 
 Model Management: Joblib (for serialization/loading)
